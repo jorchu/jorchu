@@ -1,8 +1,5 @@
-- 👋 Hi, I’m @jorchu
-- 👀 I’m interested in programing, ciber segurity, cryptocurrecis and building computers.
-- 🌱 I’m currently learning programing
-- 💞️ I’m looking to collaborate on nothing :(
-- 📫 How to reach me ...
+
+No se nada y ni eso se
 
 <!---
 jorchu/jorchu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
